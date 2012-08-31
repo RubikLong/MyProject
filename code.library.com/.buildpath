@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="alloy/config"/>
+	<buildpathentry kind="src" path="alloy/lib/Alloy"/>
+	<buildpathentry kind="src" path="alloy/Plugin/Alloy/Layout"/>
+	<buildpathentry kind="src" path="alloy/Plugin/Spot"/>
+	<buildpathentry kind="src" path="alloy/tests"/>
+	<buildpathentry kind="src" path="app"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
